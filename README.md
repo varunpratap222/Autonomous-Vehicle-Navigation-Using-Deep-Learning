@@ -29,7 +29,7 @@ The deployment of autonomous vehicles on road to safely navigate in uncertain en
 
 
 ## Installtion
-1. Clone this repo: `git clone https://github.com/Tejas-Deo/Safe-Navigation-Training-Autonomous-Vehicles-using-Deep-Reinforcement-Learning-in-CARLA.git`
+1. Clone this repo: `git clone https://github.com/varunpratap222/Autonomous-Vehicle-Navigation-Using-Deep-Learning.git`
 2. Download Carla 0.9.13 from [source](https://github.com/carla-simulator/carla/releases). 
 3. Install required packages: `pip install -r requirements.txt`
 4. Requirements file contains packages compatible with Ubuntu 22.0
