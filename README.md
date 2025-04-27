@@ -1,4 +1,4 @@
-# Safe Navigation: Training Autonomous Vehicles using Deep Reinforcement Learning in CARLA
+# Autonomous-Vehicle-Navigation-Using-Deep-Learning
 
 **[Paper Link](https://drive.google.com/file/d/1-GqUQUW696-wRDpZN61SrFRGXc5QeCao/view?usp=sharing)**
 
